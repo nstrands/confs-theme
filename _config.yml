@@ -1,11 +1,11 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Travel Blog
+email: nilsen@nstrands.com
+description: Follow me
+baseurl: "/travel-blog"
+url: "http://nilsen.space"
+twitter_username: @nhstrandskov
+avatar: "https://pbs.twimg.com/profile_images/556295189439213569/_S-x5xhd_400x400.jpeg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Nilsen Strandskov" # Set default author name
+      categories: "places"
       layout: "post"
       comments: true
   -
